@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Computer Name: LAPTOP-MV7A6ASL
 Date of Test: 2023-11-28 13:03:03
 Bubble Sort Time: 3.901629 seconds
 Quick Sort Time: 0.010052 seconds
+=======
+Computer Name: MacBook-Pro-Pavlo.local
+Date of Test: 2023-11-28 13:02:59
+Bubble Sort Time: 5.016018 seconds
+Quick Sort Time: 0.012619 seconds
+>>>>>>> 34a472e16d5f06d79b1e8460c128bb6905fc1349
 
